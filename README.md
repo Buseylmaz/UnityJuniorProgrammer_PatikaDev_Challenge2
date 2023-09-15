@@ -1,0 +1,2 @@
+# UnityJuniorProgrammer_PatikaDev_Challenge2
+ PatikaDev eğitimim platforumda Unity Junior Programmer eğitiminde Challenge2 yapıldı
