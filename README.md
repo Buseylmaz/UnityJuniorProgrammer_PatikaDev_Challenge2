@@ -5,4 +5,9 @@ Challenge Genel Bakış:                                                        
                                                                                                                                                                                      
                                                                                                                                                                                      
 Challenge Sonucu:                                                                                                                                                                      
-Ekranın üzerinde rastgele bir x konumunda rastgele bir top (3'lü) oluşturulur.Kullanıcı boşluk tuşuna bastığında, bir köpek doğar ve topu yakalamak için koşar. Köpek topla çarpışırsa, top yok edilir. Top yere çarparsa, bir "Oyun Bitti" debug mesajı görüntülenir. Köpekler ve toplar ekrandan çıktıklarında sahneden kaldırılır.
+                                                                                                                                                                                      
+            Ekranın üzerinde rastgele bir x konumunda rastgele bir top (3'lü) oluşturulur.
+            Kullanıcı boşluk tuşuna bastığında, bir köpek doğar ve topu yakalamak için koşar.
+            Köpek topla çarpışırsa, top yok edilir. 
+            Top yere çarparsa, bir "Oyun Bitti" debug mesajı görüntülenir.
+            Köpekler ve toplar ekrandan çıktıklarında sahneden kaldırılır.
